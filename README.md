@@ -34,10 +34,6 @@ python3 -m http.server 8000
 # 然后访问 http://localhost:8000
 ```
 
-## 部署
-
-此仓库可直接部署到 GitHub Pages（仓库设置 → Pages），当前站点即通过 GitHub Pages 托管。
-
 ## 作者
 
 - 名称：RuanMingze
