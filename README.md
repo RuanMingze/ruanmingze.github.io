@@ -34,6 +34,10 @@ python3 -m http.server 8000
 # 然后访问 http://localhost:8000
 ```
 
+## 网页预览
+
+使用你的浏览器访问ruanmingze.github.io即可查看
+
 ## 作者
 
 - 名称：RuanMingze
